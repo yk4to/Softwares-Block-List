@@ -37,3 +37,4 @@
 *://www.noteburner.jp/*
 *//www.amusicsoft.com/*
 *://www.openshot.org/*
+*://www.dumpmedia.jp/*
