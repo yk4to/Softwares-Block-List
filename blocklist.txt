@@ -15,13 +15,13 @@
 *://*.softonic.jp/*
 *://*.tunekeep.jp/*
 *://*.reneelab.jp/*
-*://*.leawo.org/*
+*://www.leawo.org/*
 *://*.anvsoft.jp/*
 *://japanesesoft.com/*
 *://*.japanesesoft.com/*
 *://www.ukeysoft.com/*
 *://*.eelphone.jp/*
-*://*.ondesoft.jp/*
+*://www.ondesoft.jp/*
 *://*.blu-ray.software/*
 *://*.any-video-converter.com/*
 *://*.tunesfun.com/*
@@ -29,3 +29,9 @@
 *://*.malavida.com/*
 *://*.anymp4.jp/*
 *://*.freemake.com/*
+*://www.mediasoft.jp/*
+*://www.arilab.com.tr/*
+*://www.tunemobie.net/*
+*://www.sidify.jp/*
+*://www.tunepat.jp/*
+*://www.noteburner.jp/*
