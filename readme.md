@@ -1,4 +1,4 @@
-#Softwares-Block-List
+# Softwares-Block-List
 
 怪しいソフトのダウンロードページをブロックするためのリストです。
 
