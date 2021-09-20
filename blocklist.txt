@@ -35,3 +35,4 @@
 *://www.sidify.jp/*
 *://www.tunepat.jp/*
 *://www.noteburner.jp/*
+*//www.amusicsoft.com/*
