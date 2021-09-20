@@ -36,3 +36,4 @@
 *://www.tunepat.jp/*
 *://www.noteburner.jp/*
 *//www.amusicsoft.com/*
+*://www.openshot.org/*
