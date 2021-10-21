@@ -44,3 +44,4 @@
 *://www.aomei.jp/*
 *://www.fonedog.jp/*
 *://www.macube.com/*
+*://www.drbuho.com/*
