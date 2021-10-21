@@ -39,3 +39,6 @@
 *://www.openshot.org/*
 *://www.dumpmedia.jp/*
 *://www.4videosoft.jp/*
+*://www.partitionwizard.jp/*
+*://www.diskpart.com/*
+*://www.aomei.jp/*
