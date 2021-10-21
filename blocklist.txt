@@ -42,3 +42,4 @@
 *://www.partitionwizard.jp/*
 *://www.diskpart.com/*
 *://www.aomei.jp/*
+*://www.fonedog.jp/*
