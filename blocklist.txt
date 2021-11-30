@@ -34,6 +34,7 @@
 *://www.tunemobie.net/*
 *://www.sidify.jp/*
 *://www.tunepat.jp/*
+*://www.tunepat-video.jp/*
 *://www.noteburner.jp/*
 *//www.amusicsoft.com/*
 *://www.openshot.org/*
@@ -45,3 +46,9 @@
 *://www.fonedog.jp/*
 *://www.macube.com/*
 *://www.drbuho.com/*
+*://www.flixicam.jp/*
+*://www.imymac.jp/*
+*://*.amoyshare.com/*
+*://pcmac.download/*
+*://*.uptodown.com/*
+*://*.epubor.com/*
