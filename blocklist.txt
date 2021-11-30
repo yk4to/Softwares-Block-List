@@ -49,6 +49,6 @@
 *://www.flixicam.jp/*
 *://www.imymac.jp/*
 *://*.amoyshare.com/*
-*://pcmac.download/*
+*://*.pcmac.download/*
 *://*.uptodown.com/*
 *://*.epubor.com/*
