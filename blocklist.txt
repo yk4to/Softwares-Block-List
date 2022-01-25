@@ -20,6 +20,7 @@
 *://japanesesoft.com/*
 *://*.japanesesoft.com/*
 *://www.ukeysoft.com/*
+*://www.ukeysoft.jp/*
 *://*.eelphone.jp/*
 *://www.ondesoft.jp/*
 *://*.blu-ray.software/*
@@ -36,7 +37,7 @@
 *://www.tunepat.jp/*
 *://www.tunepat-video.jp/*
 *://www.noteburner.jp/*
-*//www.amusicsoft.com/*
+*://www.amusicsoft.com/*
 *://www.openshot.org/*
 *://www.dumpmedia.jp/*
 *://www.4videosoft.jp/*
@@ -52,3 +53,12 @@
 *://*.pcmac.download/*
 *://*.uptodown.com/*
 *://*.epubor.com/*
+*://www.videoconverterfactory.com/*
+*://eizone.info/*
+*://*.colormango.com/*
+*://www.istonsoft.jp/*
+*://*.noteburner-video.jp/*
+*://www.m4vgear.com/*
+*://saikosoft.jp/*
+*://www.updatestar.com/*
+*://www.aac-to-mp3.com/*
