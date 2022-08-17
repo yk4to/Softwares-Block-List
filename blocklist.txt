@@ -4,8 +4,10 @@
 *://jp.videoproc.com/*
 *://*.macxdvd.com/*
 *://*.videosolo.com/*
+*://videosolo.net/*
 *://*.iskysoft.jp/*
 *://ja.dvdfab.cn/*
+*://dvdfab.co.jp/*
 *://*.5kplayer.com/*
 *://*.winxdvd.com/*
 *://*.aiseesoft.jp/*
@@ -62,3 +64,11 @@
 *://saikosoft.jp/*
 *://www.updatestar.com/*
 *://www.aac-to-mp3.com/*
+*://videobyte.jp/*
+*://www.tuneboto.jp/*
+*://keepstreams.com/*
+*://www.cleverget.jp/*
+*://www.fonepaw.com/*
+*://freegrabapp.com/*
+*://www.macblurayplayer.jp/*
+*://jp.macblurayplayer.com/*
