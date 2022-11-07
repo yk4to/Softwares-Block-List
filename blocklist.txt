@@ -38,6 +38,7 @@
 *://jp.macblurayplayer.com/*
 *://jp.videoproc.com/*
 *://keepstreams.com/*
+*://muconvert.jp/*
 *://saikosoft.jp/*
 *://videobyte.jp/*
 *://videosolo.net/*
@@ -48,6 +49,7 @@
 *://www.apowersoft.jp/*
 *://www.arilab.com.tr/*
 *://www.bestdata.jp/*
+*://www.cleverfiles.com/*
 *://www.cleverget.jp/*
 *://www.diskpart.com/*
 *://www.drbuho.com/*
