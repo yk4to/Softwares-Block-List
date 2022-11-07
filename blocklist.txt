@@ -19,6 +19,7 @@
 *://*.reneelab.jp/*
 *://*.softonic.jp/*
 *://*.syncios.jp/*
+*://*.tenorshare.com/*
 *://*.tunekeep.jp/*
 *://*.tunesfun.com/*
 *://*.ubackup.com/*
@@ -33,6 +34,7 @@
 *://freegrabapp.com/*
 *://ja.dvdfab.cn/*
 *://japanesesoft.com/*
+*://jp.easeus.com/*
 *://jp.macblurayplayer.com/*
 *://jp.videoproc.com/*
 *://keepstreams.com/*
@@ -45,6 +47,7 @@
 *://www.aomei.jp/*
 *://www.apowersoft.jp/*
 *://www.arilab.com.tr/*
+*://www.bestdata.jp/*
 *://www.cleverget.jp/*
 *://www.diskpart.com/*
 *://www.drbuho.com/*
@@ -53,6 +56,7 @@
 *://www.fonedog.jp/*
 *://www.fonepaw.com/*
 *://www.imymac.jp/*
+*://www.isofter.jp/*
 *://www.istonsoft.jp/*
 *://www.leawo.org/*
 *://www.m4vgear.com/*
@@ -64,6 +68,7 @@
 *://www.openshot.org/*
 *://www.partitionwizard.jp/*
 *://www.sidify.jp/*
+*://www.tenorshare.jp/*
 *://www.tuneboto.jp/*
 *://www.tunefab.jp/*
 *://www.tunemobie.net/*
