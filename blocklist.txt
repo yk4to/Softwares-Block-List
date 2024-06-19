@@ -7,7 +7,7 @@
 *://*.anymp4.jp/*
 *://*.blu-ray.software/*
 *://*.colormango.com/*
-*://*.easeus.com/screen-recording-tips/*
+*://*.easeus.com/*
 *://*.eelphone.jp/*
 *://*.epubor.com/*
 *://*.freemake.com/*
@@ -77,7 +77,9 @@
 *://www.flixicam.jp/*
 *://www.fonedog.jp/*
 *://www.fonepaw.com/*
+*://www.fonetool.com/*
 *://www.hitpaw.jp/*
+*://www.imobie.com/*
 *://www.imobie.jp/*
 *://www.imymac.jp/*
 *://www.imypass.com/*
