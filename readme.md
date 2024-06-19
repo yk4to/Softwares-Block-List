@@ -10,11 +10,11 @@
 
 以下のリンクをクリックするとダイアログが開きます。
 
-[**このリストを購読する**](https://iorate.github.io/ublacklist/subscribe?name=Softwares-Block-List&url=https%3A%2F%2Fraw.githubusercontent.com%fus1ondev%2FSoftwares-Block-List%2Fmaster%2Fblocklist.txt)
+[**このリストを購読する**](https://iorate.github.io/ublacklist/subscribe?name=Softwares-Block-List&url=https%3A%2F%2Fraw.githubusercontent.com%yk4to%2FSoftwares-Block-List%2Fmaster%2Fblocklist.txt)
 
 もしくは、uBlackListの設定画面の「購読」という項目にある「購読を追加する」というボタンを押し、以下のように追加してください。
 
 | Key | Value |
 | - | - |
 | 名前 | Softwares-Block-List |
-| URL | https://raw.githubusercontent.com/fus1ondev/Softwares-Block-List/master/blocklist.txt |
+| URL | https://raw.githubusercontent.com/yk4to/Softwares-Block-List/master/blocklist.txt |
