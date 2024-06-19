@@ -28,6 +28,7 @@
 *://*.videosolo.com/*
 *://*.winxdvd.com/*
 *://*.wondershare.jp/*
+*://deciphertools.com/*
 *://dvdfab.co.jp/*
 *://dvdfab.org/*
 *://eizone.info/*
@@ -77,12 +78,14 @@
 *://www.flixicam.jp/*
 *://www.fonedog.jp/*
 *://www.fonepaw.com/*
+*://www.fonepaw.jp/*
 *://www.fonetool.com/*
 *://www.hitpaw.jp/*
 *://www.imobie.com/*
 *://www.imobie.jp/*
 *://www.imymac.jp/*
 *://www.imypass.com/*
+*://www.iphone-utility.com/*
 *://www.iseepassword.jp/*
 *://www.isofter.jp/*
 *://www.istonsoft.jp/*
