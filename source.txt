@@ -17,6 +17,7 @@ audicable
 bestdata
 bluraycopys
 cisdem
+cleanmymac
 cleverfiles
 cleverget
 colormango
@@ -26,6 +27,7 @@ cyberlink
 deciphertools
 diskpart
 drbuho
+drmare
 dumpmedia
 dvdfab
 easeus
@@ -41,6 +43,7 @@ freegrabapp
 freemake
 gemsoft
 hitpaw
+iboysoft
 imobie
 imyfone
 imymac
@@ -56,6 +59,7 @@ keepstreams
 leawo
 m4vgear
 macblurayplayer
+macpaw
 macube
 macvideoconverterpro
 macxdvd
@@ -72,6 +76,7 @@ openshot
 partitionwizard
 passfab
 passvers
+pazu-soft
 reneelab
 roxio
 saikosoft
@@ -101,6 +106,7 @@ videoproc
 videosoftdev
 videosolo
 vidmore
+viwizard
 winxdvd
 wizcase
 wondershare
