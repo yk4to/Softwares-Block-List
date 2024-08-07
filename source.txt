@@ -18,6 +18,7 @@ arilab
 audbite
 audfree
 audicable
+avaide
 avs4you
 bestdata
 bluraycopys
@@ -55,6 +56,7 @@ gemsoft
 hitpaw
 iboysoft
 icecreamapps
+ifunia
 imobie
 imyfone
 imymac
@@ -107,6 +109,7 @@ streamgaga
 syncios
 taiwebs
 tenorshare
+tipard
 tuneboto
 tunefab
 tunekeep
