@@ -4,6 +4,7 @@
 5kplayer
 aac-to-mp3
 acrok
+airdroid
 aiseesoft
 amazing-share
 amoyshare
