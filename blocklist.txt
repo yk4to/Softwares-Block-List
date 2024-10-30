@@ -1690,6 +1690,18 @@
 *://www.y2mate.jp/*
 *://*.y2mate.co.jp/*
 *://www.y2mate.co.jp/*
+*://*.pazufab.com/*
+*://www.pazufab.com/*
+*://ja.pazufab.com/*
+*://jp.pazufab.com/*
+*://*.pazufab.org/*
+*://www.pazufab.org/*
+*://ja.pazufab.org/*
+*://jp.pazufab.org/*
+*://*.pazufab.jp/*
+*://www.pazufab.jp/*
+*://*.pazufab.co.jp/*
+*://www.pazufab.co.jp/*
 *://*.blu-ray.software/*
 *://www.blu-ray.software/*
 *://ja.blu-ray.software/*
@@ -1718,3 +1730,7 @@
 *://www.ytsaver.net/*
 *://ja.ytsaver.net/*
 *://jp.ytsaver.net/*
+*://*.musicfab.ne.jp/*
+*://www.musicfab.ne.jp/*
+*://ja.musicfab.ne.jp/*
+*://jp.musicfab.ne.jp/*
