@@ -1,3 +1,5 @@
+
+4easysoft
 4kdownload
 4ukey
 4videosoft
@@ -14,6 +16,7 @@ anvsoft
 any-video-converter
 anymp4
 aomei
+apeaksoft
 apowersoft
 arilab
 audbite
@@ -49,6 +52,7 @@ flixgrab
 flixicam
 flixpal
 fonedog
+fonelab
 fonepaw
 fonetool
 freegrabapp
@@ -58,6 +62,7 @@ hitpaw
 iboysoft
 icecreamapps
 ifunia
+imazing
 imobie
 imyfone
 imymac
@@ -94,6 +99,7 @@ partitionwizard
 passfab
 passvers
 pazu-soft
+pazufab
 pazuvideo
 reneelab
 roxio
@@ -110,6 +116,7 @@ streamgaga
 syncios
 taiwebs
 tenorshare
+thinkskysoft
 tipard
 tuneboto
 tunefab
@@ -139,4 +146,3 @@ winxdvd
 wizcase
 wondershare
 y2mate
-pazufab
